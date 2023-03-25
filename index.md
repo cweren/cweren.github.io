@@ -17,7 +17,7 @@
 
 ---
 
-### Visualizations
+### Exploratory Data Analysis
 
 - [Chess Analysis in Python]([https://www.kaggle.com/code/cherieweren/analysis-of-chess])
 - [Bellabeat Case Study]([https://www.kaggle.com/code/cherieweren/bellabeat-in-r-google-data-analytic-capstone])
