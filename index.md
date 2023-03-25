@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Visualizations 
 
-[Test](/sample_page)
+[Tableau](/sample_page)
 <img src="images/Tata Top Ten.png?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Visualizations
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
