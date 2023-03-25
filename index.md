@@ -4,7 +4,7 @@
 
 ### Visualizations 
 
-[Tableau](/sample_page)
+[Tata Top Ten in Tableau]([https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link])
 <img src="images/Tata Top Ten.png?raw=true"/>
 
 <!-- --- -->
