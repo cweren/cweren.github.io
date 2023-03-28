@@ -21,8 +21,8 @@ Denver Food Desert using Excel Dashboard
 
 ### Exploratory Data Analysis
 
-[Bellabeat Case Study using RStudio](/pdf/Bellabeat RMD.pdf/
-<img src="pdf/Bellabeat Case Study.pdf?raw=true"/>
+[Bellabeat Case Study using RStudio](/pdf/Bellabeat RMD.pdf)
+<img src="images/Bellabeat Screen Shot.png?raw=true"/>
 
 - [Chess Analysis in Python](https://www.kaggle.com/code/cherieweren/analysis-of-chess)
 
