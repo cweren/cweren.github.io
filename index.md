@@ -24,6 +24,7 @@ Denver Food Desert using Excel Dashboard
 Bellabeat Case Study using RStudio
 [<img src="images/Bellabeat Screen Shot.png?raw=true"/>](/pdf/Bellabeat_rmd.pdf)
 
+---
 
 Chess Analysis in Python
 
