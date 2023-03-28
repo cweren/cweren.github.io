@@ -9,7 +9,7 @@
 
 ---
 [Denver Food Desert - Excel Dashboard]
-<img src="images/images/Denver Food Desert.png?raw=true"/>
+<img src="images/Denver Food Desert.png?raw=true"/>
 
 <!-- --- -->
 <!--[Project 3 Title](http://example.com/)>-->
