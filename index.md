@@ -4,12 +4,14 @@
 
 ### Visualizations 
 
+Denver Food Desert using Excel Dashboard
+<img src="images/Denver Food Desert Dashboard.png?raw=true"/>
+
+---
+
 [Tata Top Ten using Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tata Dashboard Final.png?raw=true"/>
 
----
-Denver Food Desert using Excel Dashboard
-<img src="images/Denver Food Desert Dashboard.png?raw=true"/>
 
 <!-- --- -->
 <!--[Project 3 Title](http://example.com/)>-->
