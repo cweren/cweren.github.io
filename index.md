@@ -8,7 +8,7 @@
 <img src="images/Tata Dashboard Final.png?raw=true"/>
 
 ---
-[Denver Food Desert - Excel Dashboard]
+- [Denver Food Desert - Excel Dashboard]
 <img src="images/Denver Food Desert.png?raw=true"/>
 
 <!-- --- -->
