@@ -4,11 +4,11 @@
 
 ### Visualizations 
 
-[Tata Top Ten in Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tata Top Ten using Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tata Dashboard Final.png?raw=true"/>
 
 ---
-- [Denver Food Desert - Excel Dashboard]
+[Denver Food Desert using Excel Dashboard]
 <img src="images/Denver Food Desert.png?raw=true"/>
 
 <!-- --- -->
