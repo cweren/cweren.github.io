@@ -7,9 +7,9 @@
 [Tata Top Ten in Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tata Dashboard Final.png?raw=true"/>
 
-<!-- --- -->
-<!--[Project 2 Title](/pdf/sample_presentation.pdf)-->
-<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+-- ---
+[Denver Food Desert - Excel Dashboard]
+img src="images/images/Denver%20Food%20Desert.png?raw=true"/>
 
 <!-- --- -->
 <!--[Project 3 Title](http://example.com/)>-->
