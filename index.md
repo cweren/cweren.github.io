@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Visualizations 
+## Visualizations 
 
 [Maven Supplies Executive Dashboard](https://public.tableau.com/views/MavenWorking/ExecutiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -28,7 +28,7 @@ Denver Food Desert using Excel Dashboard
 
 ---
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Bellabeat Case Study using RStudio
 [<img src="images/Bellabeat Screen Shot.png?raw=true"/>](/pdf/Bellabeat_rmd.pdf)
