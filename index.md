@@ -6,6 +6,7 @@
 
 [Maven Supplies Executive Dashboard](https://public.tableau.com/views/MavenWorking/ExecutiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Executive Dashboard.png?raw=true"/>
+Dynamic dashboard featuring interactive KPI's and advanced filtering.
 
 ---
      
