@@ -4,7 +4,7 @@
 
 ## Visualizations 
 
-[Maven Supplies Executive Dashboard](https://public.tableau.com/views/MavenWorking/ExecutiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+###[Maven Supplies Executive Dashboard](https://public.tableau.com/views/MavenWorking/ExecutiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 *Dynamic dashboard featuring interactive KPI's and advanced filtering.
 
@@ -12,7 +12,7 @@
 
 ---
      
-Denver Food Desert using Excel Dashboard
+###Denver Food Desert using Excel Dashboard
 
 *Extracted data from Food Access Research Atlas; transformed to prepare for analysis; created interactive Excel dashboard.
 
@@ -20,7 +20,7 @@ Denver Food Desert using Excel Dashboard
 
 ---
 
-[Tata Top Ten using Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+###[Tata Top Ten using Tableau](https://public.tableau.com/views/TataDashboard_16796967994170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 *Cleaned provided data and created analysis and visualizations culminating in a Tableau dashboard with custom filters.
 
@@ -35,14 +35,15 @@ Denver Food Desert using Excel Dashboard
 
 ## Exploratory Data Analysis
 
-Bellabeat Case Study using RStudio
-[<img src="images/Bellabeat Screen Shot.png?raw=true"/>](/pdf/Bellabeat_rmd.pdf)
+###Bellabeat Case Study using RStudio
 
-*Capstone project; imported provided data; manipulation and analysis within RStudio documented in RMarkdown.
+*Capstone project; imported provided data; manipulation and analysis within RStudio documented in RMarkdown.'
+
+[<img src="images/Bellabeat Screen Shot.png?raw=true"/>](/pdf/Bellabeat_rmd.pdf)
 
 ---
 
-Chess Analysis in Python
+###Chess Analysis in Python
 
 *Capstone project; selected and sourced data from Kaggle; manipulation and analysis completed in Python documented in Jupyter notebook.
 
